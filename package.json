@@ -1,0 +1,22 @@
+{
+  "name": "learn-jest",
+  "version": "1.0.0",
+  "description": "learn jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "unti-testing"
+  ],
+  "author": "vladbelozertsev",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}

@@ -1,0 +1,8 @@
+Структура:
+1. Объекты которые находятся в глобальной области видимости .test.js файла:
+  1.1. Общие методы - https://jestjs.io/docs/en/api
+  1.1. Про ожидаемый результат (expect) - https://jestjs.io/docs/en/expect
+  1.2. Про глобальный объект jest - https://jestjs.io/docs/en/jest-object
+    1.2.1. Функции-шпионы (mock) (созданные от jest.fn()) - https://jestjs.io/docs/en/mock-function-api
+3. Конфигурация (json) - https://jestjs.io/docs/en/configuration
+4. ClI - https://jestjs.io/docs/en/cli
