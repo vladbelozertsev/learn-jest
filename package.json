@@ -1,7 +1,7 @@
 {
   "name": "learn-jest",
   "version": "1.0.0",
-  "description": "learn jest",
+  "description": "learn-jest",
   "main": "index.js",
   "scripts": {
     "test": "jest"
