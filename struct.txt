@@ -5,4 +5,4 @@
   1.2. Про глобальный объект jest - https://jestjs.io/docs/en/jest-object
     1.2.1. Функции-шпионы (mock) (созданные от jest.fn()) - https://jestjs.io/docs/en/mock-function-api
 3. Конфигурация (json) - https://jestjs.io/docs/en/configuration
-4. ClI - https://jestjs.io/docs/en/cli
+4. CLI - https://jestjs.io/docs/en/cli
